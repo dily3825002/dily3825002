@@ -26,7 +26,7 @@ Hi, I'm Dily a passionate web developer and a blockchain engineer from China. My
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
 ![Solidity](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=solidity)
-![NodeJS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=node.js)
+![NodeJS](https://img.shields.io/badge/-CSS3-%23F05032?style=flat-square&logo=node.js)
 
 
 **My GitHub Stats**
