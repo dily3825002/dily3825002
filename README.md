@@ -28,3 +28,6 @@ Hi, I'm Dily a passionate web developer and a blockchain engineer from China. My
 **My GitHub Stats**
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dily3825002&show_icons=true&theme=radical" alt="dily" />
+  
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dily3825002&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="dily" />
+
