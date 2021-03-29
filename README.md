@@ -1,19 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dily3825002)
-
-Hi, I'm Dily a passionate web developer and a blockchain engineer from China. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
-
-**About Me**
-
-- 👔 Serial Entrepreneur
-- 🧑🏻‍💻 Worked at HappyElement, ChangYou, Egret, Kingsoft Cloud
-- 📝 Author of EgerAir and EgerPro
-- 🎮 Technical Leader of Egretia, a Blockchain Game Platform
-- 🚉 Developed BaaS Platform, Blockchain Browser, Digital Wallet and Other Products
-
-**Languages and Tools:**  
-
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -30,6 +16,22 @@ Hi, I'm Dily a passionate web developer and a blockchain engineer from China. My
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=dily3825002)
+
+Hi, I'm Dily a passionate web developer and a blockchain engineer from China. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. 
+
+**About Me**
+
+- 👔 Serial Entrepreneur
+- 🧑🏻‍💻 Worked at HappyElement, ChangYou, Egret, Kingsoft Cloud
+- 📝 Author of EgerAir and EgerPro
+- 🎮 Technical Leader of Egretia, a Blockchain Game Platform
+- 🚉 Developed BaaS Platform, Blockchain Browser, Digital Wallet and Other Products
+
+**Languages and Tools:**  
+
+
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
