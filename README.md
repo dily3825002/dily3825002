@@ -19,7 +19,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📈 My GitHub Stats
+**My GitHub Stats**
 
-<img align="right" alt="GIF" src="https://github.com/dily3825002/dily3825002/blob/main/code.gif?raw=true" width="296.875" height="190" />
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=dily3825002&show_icons=true&theme=radical" alt="dily" />
