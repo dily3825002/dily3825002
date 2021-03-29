@@ -6,4 +6,4 @@
 - 🎮 Technical Leader of Egretia, a Blockchain Game Platform
 - 🚉 Developed BaaS Platform, Blockchain Browser, Digital Wallet and Other Products
 
-![Dily's github stats](https://github-readme-stats.vercel.app/api?username=dily3825002&show_icons=true&theme=radical) 
+<p align="center">![Dily's github stats](https://github-readme-stats.vercel.app/api?username=dily3825002&show_icons=true&theme=radical) 
